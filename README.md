@@ -13,6 +13,8 @@ Weather forecast is parsed from
 
 * **[gismeteo.kz](https://www.gismeteo.kz/weather-bishkek-5327/weekly/)**
 
+![weather](https://user-images.githubusercontent.com/57888663/81505736-55b7ec00-9313-11ea-8f55-f144362676d1.PNG)
+
 News parsed from
 
 * **[sputnik.kg](https://Sputnik.kg)**
