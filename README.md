@@ -1,30 +1,33 @@
-# BishkekTimes
+# KGZ.Times
+
+![KGZ Times](https://user-images.githubusercontent.com/57888663/81508581-b43a9580-9326-11ea-90d2-6397e4bf5b44.PNG)
+
 
 ## Description
 
 #### Using this Java GUI App you can read the latest news of Kyrgyzstan from different sources, in addition you can monitor the weather and covid-19 stats 
 
-
-Covid-19 stats from
-
-* **[worldmeters.info](https://www.worldometers.info/coronavirus/)**
-
-![covid-19](https://user-images.githubusercontent.com/57888663/81505716-21443000-9313-11ea-84fe-fc63126db306.PNG)
-
-Weather forecast is parsed from
-
-* **[timeanddate.com](https://www.gismeteo.kz/weather-bishkek-5327/weekly/)**
-
-![weather](https://user-images.githubusercontent.com/57888663/81505736-55b7ec00-9313-11ea-8f55-f144362676d1.PNG)
-
-News parsed from
+##### News parsed from
 
 * **[sputnik.kg](https://Sputnik.kg)**
 * **[kabar.kg](https://Kabar.kg)**
 * **[sport.kg](https://Sport.kg)**
 
-## Features 
+![Main](https://user-images.githubusercontent.com/57888663/81508560-92411300-9326-11ea-955e-e87bda997ac0.PNG)
+#### CLICK THE BUTTONS TO READ MORE FROM OFFICIAL SITE 
 
+
+##### Covid-19 stats from
+
+* **[worldmeters.info](https://www.worldometers.info/coronavirus/)**
+
+![covid-19](https://user-images.githubusercontent.com/57888663/81505716-21443000-9313-11ea-84fe-fc63126db306.PNG)
+
+##### Weather forecast is parsed from
+
+* **[timeanddate.com](https://www.gismeteo.kz/weather-bishkek-5327/weekly/)**
+
+![weather](https://user-images.githubusercontent.com/57888663/81505736-55b7ec00-9313-11ea-8f55-f144362676d1.PNG)
 
 
 ## Technologies 
