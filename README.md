@@ -5,5 +5,6 @@
 1. Weather forecast
 2. Covid-19 stats
 4. Last news from 
-   1. Indented item
-   2. Indented item
+   1. **[Sputnik.kg](https://Sputnik.kg)**
+   2. **[Kabar.kg](https://Kabar.kg)**
+   3. **[Sport.kg](https://Sport.kg)**
