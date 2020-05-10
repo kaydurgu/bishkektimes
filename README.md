@@ -1,7 +1,9 @@
-# bishkektimes
+# BishkekTimes
 
-### Desktop app which **parse** data from sites:
+## About 
 
+#### A mini News Parser app implemented on Java 
+#### Swing , Awt and Jsoup  
 1. Weather forecast
 2. Covid-19 stats
 4. Last news from 
