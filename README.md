@@ -9,9 +9,11 @@ Covid-19 stats from
 
 * **[worldmeters.info](https://www.worldometers.info/coronavirus/)**
 
+![covid-19](https://user-images.githubusercontent.com/57888663/81505716-21443000-9313-11ea-84fe-fc63126db306.PNG)
+
 Weather forecast is parsed from
 
-* **[gismeteo.kz](https://www.gismeteo.kz/weather-bishkek-5327/weekly/)**
+* **[timeanddate.com](https://www.gismeteo.kz/weather-bishkek-5327/weekly/)**
 
 ![weather](https://user-images.githubusercontent.com/57888663/81505736-55b7ec00-9313-11ea-8f55-f144362676d1.PNG)
 
